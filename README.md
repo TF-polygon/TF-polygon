@@ -45,24 +45,24 @@
 
 ⚡ ** Activity ** ⚡
 
-- Kangnam University. Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ ing
+- Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ Ongoing
 
-- Kangnam University. Industry and Academic-Cooperation, Student Reseacher :: 2023.06.01 ~ ing
+- Kangnam University, Industry and Academic-Cooperation, Student Reseacher :: 2023.06 ~ Ongoing
 
 - Baekjoon Online Judge GOLD IV. <br>
-    Max level of solved problem is Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
+    Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
 
-- Kangnam University Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
+- Kangnam University, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
 
 <br> <br>
 
 🔭 ** Project ** 🔭
 
-- Auto Trading Program using TradingView and Webhook signal :: 2023.03 ~ 2023.06
+- Developed an Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
-- Particle-based Real-time Fluid Simulation and Applied Research (Capstone Design topic) :: 2023.06 ~ ing
+- Particle-based Real-time Fluid Simulation and Applied Research :: 2023.06 ~ Ongoing
 
-- MetaTrader MQL4 Strategy Implementation :: 2023.07 ~ ing
+- MetaTrader MQL4 Strategy Implementation :: 2023.07 ~ Ongoing
 
 
 
