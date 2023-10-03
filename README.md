@@ -27,6 +27,12 @@
       style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
 
 </a>
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+        style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
+
+</a>
   
 <a href="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"
