@@ -47,7 +47,7 @@
 
 - Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ Ongoing
 
-- Kangnam University, Industry and Academic-Cooperation, Student Reseacher :: 2023.06 ~ Ongoing
+- Kangnam University Industry-Academia Cooperation Foundation, Student Reseacher :: 2023.06 ~ Ongoing
 
 - Baekjoon Online Judge GOLD IV. <br>
     Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
