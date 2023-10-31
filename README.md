@@ -43,7 +43,7 @@
 
 <br> <br>
 
-⚡ ** Activity ** ⚡
+<b>⚡ ** Activity ** ⚡</b>
 
 - Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ Ongoing
 
@@ -54,15 +54,22 @@
 
 - Kangnam University, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
 
+- 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic Operations, Geometric Operations, Basic Algorithm in C
+    
+- Non-face-to-face 1:1 Programming Tutoring  :: 2023.06 ~ Ongoing <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming, Basic Algorithm in C++
+  
 <br> <br>
 
-🔭 ** Project ** 🔭
+<b>🔭 ** Project ** 🔭</b>
 
-- Developed an Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
+- Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
 - Particle-based Real-time Fluid Simulation and Applied Research :: 2023.06 ~ Ongoing
 
-- MetaTrader MQL4 Strategy Implementation :: 2023.07 ~ Ongoing
+- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ Ongoing
+
 
 
 
