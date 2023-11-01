@@ -1,10 +1,10 @@
-<a href="https://blog.naver.com/zxzx2237">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Literature_blog-blue">
+<a href="https://kin.naver.com/profile/index.naver?u=bEGnMQw3qk9HDeSiWoKBqCl5n47J8XH7kqEiABxy2Xw%3D">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NaverKIN-blue">
 
 </a>
 
 <a href="https://www.acmicpc.net/user/lsch6214">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ACMICPC-yellow">
+    <img alt="Static Badge" src="https://img.shields.io/badge/acmicpc-yellowish">
 </a>
 
 <br>
