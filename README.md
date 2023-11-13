@@ -64,11 +64,11 @@
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
-
-- Particle-based Real-time Fluid Simulation and Applied Research :: 2023.06 ~ Ongoing
-
 - Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ Ongoing
+
+- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~ Ongoing
+
+- Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
 
 
