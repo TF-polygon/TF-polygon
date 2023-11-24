@@ -45,28 +45,28 @@
 
 <b>⚡ ** Activity ** ⚡</b>
 
-- Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ Ongoing
+- Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ 
 
-- National Research Foundation of Korea, Mid-Career Researcher Student Reseacher :: 2023.06 ~ Ongoing
+- Kangnam University, National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 
 
 - Baekjoon Online Judge GOLD IV. <br>
     Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
 
-- Kangnam University, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
+- Kangnam University, College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
 
 - 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic Operations, Geometric Operations, Basic Algorithm in C
     
-- Non-face-to-face 1:1 Programming Tutoring  :: 2023.06 ~ Ongoing <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming, Basic Algorithm in C++
+- Non-face-to-face 1:1 Programming Tutoring  :: 2023.06 ~  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming and Application, Basic Algorithm in C/C++
   
 <br> <br>
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ Ongoing
+- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ 
 
-- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~ Ongoing
+- Real-time Particle Based Fluid Simulation and Application Research :: 2023.03 ~ 
 
 - Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
@@ -76,6 +76,7 @@
 
 <br><br><br>
 ![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
+[![lsch6214's GitHub stats](https://github-readme-stats.vercel.app/api?username=tf-polygon)](https://github.com/polygon/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsch6214)](https://solved.ac/lsch6214/)
 
 <!--
