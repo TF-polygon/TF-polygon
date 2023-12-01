@@ -64,13 +64,17 @@
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ 
+- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ 2023.11
 
 - Real-time Particle Based Fluid Simulation and Application Research :: 2023.03 ~ 
 
 - Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
+<br> <br>
 
+<b> 🌱 ** Awards ** 🌱</b>
+
+- 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University
 
 
 
