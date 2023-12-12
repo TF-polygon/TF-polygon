@@ -60,9 +60,6 @@
 
 - National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 
 
-- Baekjoon Online Judge GOLD IV. <br>
-    Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
-
 - College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03 ~ 2023.06
 
 - 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
@@ -70,6 +67,9 @@
     
 - Non-face-to-face 1:1 Programming Tutoring  :: 2023.06 ~  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming and Application, Basic Algorithm in C/C++
+
+- Baekjoon Online Judge GOLD IV. <br>
+    Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
   
 <br> <br>
 
