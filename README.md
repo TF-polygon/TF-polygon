@@ -41,18 +41,29 @@
 
 </a>
 
+<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/294f2030-a0c9-4ca0-be7d-f27ebce92ac8">
+    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/294f2030-a0c9-4ca0-be7d-f27ebce92ac8"
+      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
+
+</a>
+
+<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/ae91d10b-0fb8-4830-872f-5d848e2dad62">
+    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/ae91d10b-0fb8-4830-872f-5d848e2dad62"
+      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
+
+</a>
 <br> <br>
 
 <b>⚡ ** Activity ** ⚡</b>
 
-- Kangnam University, Department of Software Application. (Software Major, Virtual Reality Double Major) :: 2018.03 ~ 
+- Department of Software Application. (Software Major, Virtual Reality Double Major), Kangnam University :: 2018.03 ~ 
 
-- Kangnam University, National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 
+- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 
 
 - Baekjoon Online Judge GOLD IV. <br>
     Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
 
-- Kangnam University, College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring :: 2023.03 ~ 2023.06
+- College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03 ~ 2023.06
 
 - 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic Operations, Geometric Operations, Basic Algorithm in C
@@ -66,7 +77,7 @@
 
 - Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~
   
-- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader :: 2023.07 ~ 2023.11
+- Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader 4 :: 2023.07 ~ 2023.12
 
 - Auto Trading Program using TradingView and Webhook signals :: 2023.03 ~ 2023.06
 
