@@ -56,17 +56,17 @@
 
 <b>⚡ ** Activity ** ⚡</b>
 
-- Department of Software Application. (Software Major, Virtual Reality Double Major), Kangnam University :: 2018.03 ~ 
+- Department of Software Application. (Software Major, Virtual Reality Double Major), Kangnam University :: 2018.03 ~ 2024.02
 
-- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 
+- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 2024.02
 
 - College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03 ~ 2023.06
 
 - 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic Operations, Geometric Operations, Basic Algorithm in C
     
-- Non-face-to-face 1:1 Programming Tutoring  :: 2023.06 ~  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming and Application, Basic Algorithm in C/C++
+- Online 1:1 Programming Tutoring  :: 2023.06 ~  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Programming Structure, Arithmetic and Geometric Operations, Object Oriented Programming and Application, Basic Algorithm in C/C++, Coding Test
 
 - Baekjoon Online Judge GOLD IV. <br>
     Highest solved problem level: Platinum IV -  [**단순 다각형**](https://www.acmicpc.net/problem/3679)
@@ -75,7 +75,7 @@
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~
+- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~ 
   
 - Auto Trading Program using MetaQuotes Langauge 4 in MetaTrader 4 :: 2023.07 ~ 2023.12
 
