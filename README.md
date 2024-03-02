@@ -90,8 +90,8 @@ Preparing KOI..
 <b> 💬 ** Previous Activities ** 💬 </b>
 
 - Department of Software Application, Kangnam University :: 2018.03 ~ 2024.02
-	- Bachelor's engineering, Software major
-	- Bachelor's engineering, Virtual Reality major
+	- Bachelor's Engineering, Software major
+	- Bachelor's Engineering, Virtual Reality major
 
 - National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 2024.02
 
