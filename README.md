@@ -58,7 +58,7 @@
 
 <b>⚡ ** Activity ** ⚡</b>
 
-- Master's course, Department of Artificial Intelligence, Sejong Unversity :: 2024.03 ~
+- Master's course, Department of Artificial Intelligence, Sejong Unversity Graduate School :: 2024.03 ~
 
 - CVPR LAB, RA :: 2024.02 ~ 
 
