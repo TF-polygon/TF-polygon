@@ -62,9 +62,6 @@
 
 - CVPR LAB, RA :: 2024.02 ~ 
 
-- Online 1:1 Programming Tutoring  :: 2023.06 ~  <br>
-Preparing KOI..
-
 <br> <br>
 
 <b>🔭 ** Project ** 🔭</b>
@@ -92,6 +89,8 @@ Preparing KOI..
 - Department of Software Application, Kangnam University :: 2018.03 ~ 2024.02
 	- Bachelor's Engineering, Software major
 	- Bachelor's Engineering, Virtual Reality major
+
+- Online 1:1 Programming Tutoring  :: 2023.02 ~ 2024.05 <br>
 
 - National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 2024.02
 
