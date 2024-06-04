@@ -77,8 +77,6 @@
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer :: 2023.12 ~ 2024.02
-
 - Development of System Trading Bot (Algo Trading 100%) :: 2023.07 ~ 2024.02
 
 - Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~ 2023.12
@@ -95,7 +93,14 @@
 
 <br> <br>
 
-<b> 💬 ** Previous Activities ** 💬 </b>
+<b> 💬 ** Publications ** 💬 </b>
+
+- <b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>, <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024.
+
+
+<br> <br>
+
+<b>Previous Activities</b>
 
 - Department of Software Application, Kangnam University :: 2018.03 ~ 2024.02
 	- Bachelor's Engineering, Software major
