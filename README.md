@@ -95,7 +95,7 @@
 
 <b> 💬 ** Publications ** 💬 </b>
 
-- <b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>, <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024.
+- G. H. Lee, "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024.
 
 
 <br> <br>
