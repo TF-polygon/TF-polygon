@@ -112,13 +112,9 @@
 
 - College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03 ~ 2023.06
 
-- 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
-
-<br><br>
+- 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
-
-<br><br><br>
 <!--
 ![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
 [![lsch6214's GitHub stats](https://github-readme-stats.vercel.app/api?username=tf-polygon)](https://github.com/polygon/github-readme-stats)
