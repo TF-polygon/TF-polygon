@@ -119,8 +119,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 
 <br><br><br>
-![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
 <!--
+![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
 [![lsch6214's GitHub stats](https://github-readme-stats.vercel.app/api?username=tf-polygon)](https://github.com/polygon/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsch6214)](https://solved.ac/lsch6214/)
 -->
