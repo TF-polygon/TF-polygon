@@ -114,6 +114,9 @@
 
 - 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br>
 
+<br><br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 
 <br><br><br>
 ![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
