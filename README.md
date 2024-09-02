@@ -77,11 +77,11 @@
 
 <b>🔭 ** Project ** 🔭</b>
 
-- Development of System Trading Bot (Algo Trading 100%) :: 2023.07 ~ 2024.02
+- Development of System Trading Bot (Algo Trading 100%) :: 2023.07-2024.02
 
-- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06 ~ 2023.12
+- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06-2023.12
 
-- Auto Trading System using TradingView and Webhook signals :: 2023.03 ~ 2023.06
+- Auto Trading System using TradingView and Webhook signals :: 2023.03-2023.06
 
 <br> <br>
 
@@ -102,17 +102,17 @@
 
 <b>Previous Activities</b>
 
-- Department of Software Application, Kangnam University :: 2018.03 ~ 2024.02
+- Department of Software Application, Kangnam University :: 2018.03-2024.02
 	- Bachelor's Engineering, Software major
 	- Bachelor's Engineering, Virtual Reality major
 
-- Online 1:1 Programming Tutoring  :: 2023.02 ~ 2024.05 <br>
+- Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
 
-- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06 ~ 2024.02
+- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02
 
-- College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03 ~ 2023.06
+- College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06
 
-- 1:1 Programming Tutoring for Science High School Student :: 2023.02 ~ 2023.06 <br><br>
+- 1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 <!--
