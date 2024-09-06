@@ -100,13 +100,13 @@
 
 ### Previous Activities
 
-<b>2024</b>&emsp;Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor's Engineering, Software major<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor's Engineering, Virtual Reality major<br>
-<b>2023</b>&emsp;Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
-<b>2023</b>&emsp;National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02<br>
-<b>2023</b>&emsp;College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06 <br>
-<b>2023</b>&emsp;1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
+<b>2024</b>&emsp; Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Software major<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Virtual Reality major<br>
+<b>2023</b>&emsp; Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
+<b>2023</b>&emsp; National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02<br>
+<b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06 <br>
+<b>2023</b>&emsp; 1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 <!--
