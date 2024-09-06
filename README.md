@@ -75,16 +75,6 @@
 
 <br> <br>
 
-<b>🔭 ** Project ** 🔭</b>
-
-- Development of System Trading Bot (Algo Trading 100%) :: 2023.07-2024.02
-
-- Real-time Particle Based Fluid Simulation and Application Research :: 2023.06-2023.12
-
-- Auto Trading System using TradingView and Webhook signals :: 2023.03-2023.06
-
-<br> <br>
-
 <b> 🌱 ** Awards ** 🌱</b>
 
 - 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University
@@ -100,19 +90,23 @@
 
 <br> <br>
 
-<b>Previous Activities</b>
+### Project
 
-- Department of Software Application, Kangnam University :: 2018.03-2024.02
-	- Bachelor's Engineering, Software major
-	- Bachelor's Engineering, Virtual Reality major
+<b>2024</b>&emsp; <i>2024 Korea Student UAM Olympiad, Department of Communication Environment</i><br>
+<b>2024</b>&emsp; <i>Development of OKX Signal Bot Function-based System Trading(In operating)</i><br>
+<b>2023</b>&emsp; <i>Development of System Trading Bot, VPS MT4(Algo Trading 99%)</i><br>
+<b>2023</b>&emsp; <i>Real-time Particle Based Fluid Simulation and Application Research</i><br>
+<b>2023</b>&emsp; <i>Auto Trading System using TradingView and Webhook signals</i><br>
 
-- Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
+### Previous Activities
 
-- National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02
-
-- College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06
-
-- 1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
+<b>2024</b>&emsp;Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor's Engineering, Software major<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor's Engineering, Virtual Reality major<br>
+<b>2023</b>&emsp;Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
+<b>2023</b>&emsp;National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02<br>
+<b>2023</b>&emsp;College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06 <br>
+<b>2023</b>&emsp;1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 <!--
