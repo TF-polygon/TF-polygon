@@ -71,7 +71,9 @@
 
 - Master's course, Department of Artificial Intelligence, Sejong University :: 2024.03 ~
 
-- CVPR LAB, RA :: 2024.02 ~ 
+- CVPR LAB, RA :: 2024.02 ~
+
+- 2024 Korea Student UAM Olympiad, Transmission Environment :: 2024.06 ~ 
 
 <br> <br>
 
@@ -92,7 +94,6 @@
 
 ### Project
 
-<b>2024</b>&emsp; <i>2024 Korea Student UAM Olympiad, Department of Communication Environment</i><br>
 <b>2024</b>&emsp; <i>Development of OKX Signal Bot Function-based System Trading(In operating)</i><br>
 <b>2023</b>&emsp; <i>Development of System Trading Bot, VPS MT4(Algo Trading 99%)</i><br>
 <b>2023</b>&emsp; <i>Real-time Particle Based Fluid Simulation and Application Research</i><br>
