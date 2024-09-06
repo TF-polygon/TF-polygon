@@ -95,7 +95,7 @@
 ### Project
 
 <b>2024</b>&emsp; <i>Development of OKX Signal Bot Function-based System Trading(In operating)</i><br>
-<b>2023</b>&emsp; <i>Development of System Trading Bot, VPS MT4(Algo Trading 99%)</i><br>
+<b>2023</b>&emsp; <i>Development of VPS MT4 based System Trading Bot(Algo Trading 99%)</i><br>
 <b>2023</b>&emsp; <i>Real-time Particle Based Fluid Simulation and Application Research</i><br>
 <b>2023</b>&emsp; <i>Auto Trading System using TradingView and Webhook signals</i><br>
 
