@@ -73,7 +73,9 @@
 
 - CVPR LAB, RA :: 2024.02 ~
 
-- 2024 Korea Student UAM Olympiad, Transmission Environment :: 2024.06 ~ 
+- 2024 Korea Student UAM Olympiad, Transmission Environment :: 2024.06 ~
+
+- The 10th International Conference on Next Generation Computing (ICNGC 2024) :: Under Review
 
 <br> <br>
 
