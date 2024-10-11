@@ -99,16 +99,16 @@
 <b> 💬 ** Publications ** 💬 </b>
 
 <!-- G. H. Lee et al. "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, -, -, -. (Accepted)-->
-- G. H. Lee, "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024.
+- G. H. Lee, "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024. [[**Link**](https://doi.org/10.9728/dcs.2024.25.5.1263)]
 
 <br> <br>
 
 ### Project
 
-<b>2024</b>&emsp; <i>Development of OKX Signal Bot Function-based System Trading(In operating)</i><br>
-<b>2023</b>&emsp; <i>Development of VPS MT4 based System Trading Bot(Algo Trading 99%)</i><br>
+<b>2024</b>&emsp; <i>Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading(In operating)</i><br>
+<b>2023</b>&emsp; <i>Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot(Algo Trading 99%)</i><br>
 <b>2023</b>&emsp; <i>Real-time Particle Based Fluid Simulation and Application Research</i><br>
-<b>2023</b>&emsp; <i>Auto Trading System using TradingView and Webhook signals</i><br>
+<b>2023</b>&emsp; <i>Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals</i><br>
 
 ### Previous Activities
 <!--<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>-->
