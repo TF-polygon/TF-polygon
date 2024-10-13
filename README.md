@@ -90,7 +90,7 @@
 
 <b> 🌱 ** Awards ** 🌱</b>
 
-- 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University
+- 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
 
 - Baekjoon Online Judge GOLD IV. <br>
 
