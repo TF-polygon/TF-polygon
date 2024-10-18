@@ -83,9 +83,9 @@
 
 - CVPR LAB, RA :: 2024.02 ~
 
-- 2024 Korea Student UAM Olympiad, Transmission Environment :: 2024.06 ~
-
-- The 10th International Conference on Next Generation Computing (ICNGC 2024) :: Accepted with minor revisions
+- (expected final presentation) 2024 Korea Student UAM Olympiad :: 2024.10.31
+  
+- (expected fianl presentation) The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.11.20-23
 
 <br> <br>
 
@@ -112,7 +112,9 @@
 <b>2023</b>&emsp; <i>Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals</i><br>
 
 ### Previous Activities
-<!--<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>-->
+<!-- -->
+<!--<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, 전파환경 부문, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal"<br>-->
+<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>
 <b>2024</b>&emsp; Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Software major<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Virtual Reality major<br>
