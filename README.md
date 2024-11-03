@@ -115,8 +115,8 @@
 
 ### Previous Activities
 <!-- -->
-<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal"<br>
-<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>
+<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal" :: 2024.06-2024.10<br>
+<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.07-2024.11<br>
 <b>2024</b>&emsp; Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Software major<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Virtual Reality major<br>
