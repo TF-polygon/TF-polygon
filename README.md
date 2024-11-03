@@ -91,7 +91,7 @@
 <br> <br>
 
 <b> 🌱 ** Awards ** 🌱</b>
-- 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr)]
+- 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, "<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>", Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr)]
 
 - 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
 
@@ -115,7 +115,8 @@
 
 ### Previous Activities
 <!-- -->
-<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal" :: 2024.06-2024.10<br>
+<!--<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal" :: 2024.06-2024.10<br>-->
+<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector :: 2024.06-2024.10<br>
 <b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.07-2024.11<br>
 <b>2024</b>&emsp; Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Software major<br>
