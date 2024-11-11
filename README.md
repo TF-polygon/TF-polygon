@@ -79,6 +79,7 @@
 
 </a>
 -->
+<br>
 
 <b>⚡ ** Activity ** ⚡</b>
 
@@ -88,44 +89,50 @@
   
 - (expected fianl presentation) The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.11.20-23
 
-<br> <br>
+<br> 
 
 <b> 🌱 ** Awards ** 🌱</b>
-<!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
+
 - 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr)]
+<!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
 
 - 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
 
 - Baekjoon Online Judge GOLD IV. <br>
 
-<br> <br>
+<br> 
 
 <b> 💬 ** Publications ** 💬 </b>
 
 <!-- G. H. Lee et al. "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, -, -, -. (Accepted)-->
 - G. H. Lee, "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024. [[**Link**](https://doi.org/10.9728/dcs.2024.25.5.1263)]
 
-<br> <br>
+<br>
 
 ### Project
 
-<b>2024</b>&emsp; <i>Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading(In operating)</i><br>
-<b>2023</b>&emsp; <i>Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot(Algo Trading 99%)</i><br>
-<b>2023</b>&emsp; <i>Real-time Particle Based Fluid Simulation and Application Research</i><br>
-<b>2023</b>&emsp; <i>Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals</i><br>
+<b>2024</b>&emsp; Metaverse Convergence Graduate School Project, Sejong University<br>
+<b>2023</b>&emsp; Real-time Particle Based Fluid Simulation and Application Research, Kangnam University<br>
+
+<br>
+
+### Personal Outsourcing
+<b>2024</b>&emsp; Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading<br>
+<b>2023</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
+<b>2023</b>&emsp; Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals<br>
+
+<br>
 
 ### Previous Activities
 <!-- -->
-<!--<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector, "UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal" :: 2024.06-2024.10<br>-->
-<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector :: 2024.06-2024.10<br>
-<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.07-2024.11<br>
+<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>
+<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector<br>
 <b>2024</b>&emsp; Department of Software Application, Kangnam University :: 2018.03-2024.02<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Software<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor's Engineering, Virtual Reality<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor of Engineering, Software<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Bachelor of Engineering, Virtual Reality<br>
 <b>2023</b>&emsp; Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
 <b>2023</b>&emsp; National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02<br>
-<b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C language Mentoring, Kangnam University :: 2023.03-2023.06 <br>
-<b>2023</b>&emsp; 1:1 Programming Tutoring for Science High School Student :: 2023.02-2023.06 <br><br>
+<b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring, Kangnam University :: 2023.03-2023.06 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 <!--
