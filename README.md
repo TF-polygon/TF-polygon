@@ -87,7 +87,6 @@
 
 - CVPR LAB, RA :: 2024.02 ~
   
-- (expected fianl presentation) The 10th International Conference on Next Generation Computing (ICNGC 2024) :: 2024.11.20-23
 
 <br> 
 
