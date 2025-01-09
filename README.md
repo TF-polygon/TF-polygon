@@ -14,6 +14,7 @@
     <br>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity">
     <img alt="MetaQuest" src="https://img.shields.io/badge/MetaQuest-black?logo=meta">
+    <img alt="TradingView" src="https://img.shields.io/badge/TradingView-black?logo=tradingview">
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-black?logo=opengl">
     <img alt="C" src="https://img.shields.io/badge/C-black?logo=c">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus">
