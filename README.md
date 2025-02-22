@@ -82,7 +82,7 @@
 -->
 <br>
 
-<b>⚡ ** Activity ** ⚡</b>
+<b>⚡ **Activity** ⚡</b>
 
 - Master's course, Department of Artificial Intelligence, Sejong University :: 2024.03 ~
 
@@ -91,7 +91,7 @@
 
 <br> 
 
-<b> 🌱 ** Awards ** 🌱</b>
+<b> 🌱 **Awards** 🌱</b>
 
 - 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr)]
 <!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
@@ -102,7 +102,7 @@
 
 <br> 
 
-<b> 💬 ** Publications ** 💬 </b>
+<b> 💬 **Publications** 💬 </b>
 
 - G. H. Lee et al. "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, Nov 2024.
   
@@ -118,6 +118,7 @@
 <br>
 
 ### Personal Outsourcing
+<b>2025</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
 <b>2024</b>&emsp; Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading<br>
 <b>2023</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
 <b>2023</b>&emsp; Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals<br>
