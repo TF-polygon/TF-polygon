@@ -23,6 +23,10 @@
     <img alt="PineScript" src="https://img.shields.io/badge/PineScript-black?logo=pinescript">
     <img alt="MQL4" src="https://img.shields.io/badge/MQL4-black">
     <img alt="MQL5" src="https://img.shields.io/badge/MQL5-black">
+    <br>
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch">
+    <img alt="ONNX" src="https://img.shields.io/badge/ONNX-black?logo=onnx">
+        
 </p>
 
 <!--
