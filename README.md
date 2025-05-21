@@ -137,7 +137,6 @@
 <b>2023</b>&emsp; Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
 <b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring, Kangnam University :: 2023.03-2023.06 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TF-Polygon&theme=flat&row=1)
 <!--
 ![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
 [![lsch6214's GitHub stats](https://github-readme-stats.vercel.app/api?username=tf-polygon)](https://github.com/polygon/github-readme-stats)
