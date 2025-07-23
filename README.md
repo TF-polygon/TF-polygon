@@ -108,6 +108,8 @@
 
 <b> 💬 **Publications** 💬 </b>
 
+<!-- - G. H. Lee et al, "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>The 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**]()]-->
+
 - A. Khan, S. Y. Jin, G. H. Lee et al., "<b>Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</b>", <i>IEEE Access</i>, Vol. 13, pp.55524-55544, May 2025. [[**Link**](https://doi.org/10.1109/ACCESS.2025.3554046)]
 
 - G. H. Lee et al., "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, Nov 2024.
