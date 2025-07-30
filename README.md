@@ -92,6 +92,7 @@
 
 - CVPR LAB, RA :: 2024.02 ~
   
+- Preparing to participate in the IEEE International Conference (Accepted)
 
 <br> 
 
