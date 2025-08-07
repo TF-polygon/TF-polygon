@@ -14,18 +14,22 @@
     <br>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity">
     <img alt="MetaQuest" src="https://img.shields.io/badge/MetaQuest-black?logo=meta">
-    <img alt="TradingView" src="https://img.shields.io/badge/TradingView-black?logo=tradingview">
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-black?logo=opengl">
     <img alt="C" src="https://img.shields.io/badge/C-black?logo=c">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus">
     <img alt="C#" src="https://img.shields.io/badge/C%23-black">
-    <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python">
+    &nbsp;
+    <img alt="TradingView" src="https://img.shields.io/badge/TradingView-black?logo=tradingview">
     <img alt="PineScript" src="https://img.shields.io/badge/PineScript-black?logo=pinescript">
     <img alt="MQL4" src="https://img.shields.io/badge/MQL4-black">
     <img alt="MQL5" src="https://img.shields.io/badge/MQL5-black">
     <br>
+    <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python">
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-black?logo=Jupyter">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-black?logo=Tensorflow">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch">
     <img alt="ONNX" src="https://img.shields.io/badge/ONNX-black?logo=onnx">
+    <br>
         
 </p>
 
