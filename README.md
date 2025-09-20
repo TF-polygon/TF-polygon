@@ -95,8 +95,6 @@
 - Master's course, Department of Artificial Intelligence, Sejong University :: 2024.03 ~
 
 - CVPR LAB, RA :: 2024.02 ~
-  
-- Preparing to participate in the IEEE International Conference (Accepted)
 
 <br> 
 
@@ -118,7 +116,7 @@
 - A. Khan, S. Y. Jin, G. H. Lee et al., "<b>Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</b>", <i>IEEE Access</i>, Vol. 13, pp.55524-55544, May 2025. [[**Link**](https://doi.org/10.1109/ACCESS.2025.3554046)]
 
 - G. H. Lee et al., "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, Nov 2024.
-  
+
 - G. H. Lee et al., "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024. [[**Link**](https://doi.org/10.9728/dcs.2024.25.5.1263)]
 
 <br>
@@ -140,12 +138,13 @@
 
 ### Previous Activities
 <!-- -->
-<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024)<br>
-<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector<br>
-<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Software, Kangnam University :: 2018.03-2024.02<br>
-<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Virtual Reality, Kangnam University<br>
-<b>2023</b>&emsp; National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02<br>
-<b>2023</b>&emsp; Online 1:1 Programming Tutoring  :: 2023.02-2024.05 <br>
+<b>2025</b>&emsp; 2025 2nd IEEE International Symposium on Consumer Technology (ISCT), Oral Session, Presenter, Sep. 16-18 2025 <br>
+<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024), Poster Session, Presenter, Nov. 21-23 2025 <br>
+<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector <br>
+<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Software, Kangnam University :: 2018.03-2024.02 <br>
+<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Virtual Reality, Kangnam University <br>
+<b>2023</b>&emsp; National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02 <br>
+<b>2023</b>&emsp; Online 1:1 Programming Tutoring :: 2023.02-2024.05 <br>
 <b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring, Kangnam University :: 2023.03-2023.06 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=flat&row=1&column=8)
