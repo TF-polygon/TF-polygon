@@ -111,6 +111,8 @@
 
 <b> 💬 **Publications** 💬 </b>
 
+<!-- - G. H. Lee, A. Khan et al., "<b>Integrating Virtual Reality and Deep Learning Gesture Recognition for Sign Language Experience with Insights from Embodied Cognition</b>", <i>Springer Virtual Reality</i>, Oct 2025. [Current State: With editor] -->
+
 - A. Khan, G. H. Lee et al., "<b>Empowering Assisted Living: Ultra Leap Motion and Deep Learning for Sign Language Recognition</b>", <i>Interntional Journal of Machine Learning and Cybernetics</i>, Vol. , No. , pp. , Sep 2025. [[**Link**](about:blank)]
 
 - G. H. Lee et al, "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>IEEE 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**](about:blank)]
