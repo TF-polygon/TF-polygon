@@ -100,7 +100,7 @@
 
 <b> 🌱 **Awards** 🌱</b>
 
-- 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr)]
+- 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr/69)]
 <!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
 
 - 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
