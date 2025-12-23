@@ -129,14 +129,16 @@
 
 ### Project
 
+<b>2025</b>&emsp; Institutional Review Board (IRB) of Sejong University Approval (SUIRB-HR-2025-002), Sejong University<br>
 <b>2024</b>&emsp; Metaverse Convergence Graduate School Project, Sejong University<br>
 <b>2023</b>&emsp; Real-time Particle Based Fluid Simulation and Application Research, Kangnam University<br>
 
 <br>
 
 ### Personal Outsourcing
+<b>2025</b>&emsp; Development of Python based System Trading Bot for Cryptocurrency in [**Toobit**](https://www.toobit.com/en-US/)<br>
 <b>2025</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
-<b>2024</b>&emsp; Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading<br>
+<b>2024</b>&emsp; Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading Framework<br>
 <b>2023</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
 <b>2023</b>&emsp; Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals<br>
 
