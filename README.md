@@ -115,7 +115,7 @@
 
 - A. Khan, G. H. Lee et al., "<b>Empowering Assisted Living: Ultra Leap Motion and Deep Learning for Sign Language Recognition</b>", <i>Interntional Journal of Machine Learning and Cybernetics</i> (Accepted). [[**Link**](about:blank)]
 
-- G. H. Lee et al, "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>IEEE 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**](about:blank)]
+- G. H. Lee et al, "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>IEEE 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**](https://ieeexplore.ieee.org/abstract/document/11297378)]
 
 - A. Khan, S. Jin, G. H. Lee et al., "<b>Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</b>", <i>IEEE Access</i>, Vol. 13, pp. 55524-55544, May 2025. [[**Link**](https://doi.org/10.1109/ACCESS.2025.3554046)]
 
