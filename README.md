@@ -90,15 +90,35 @@
 -->
 <br>
 
-<b>⚡ **Activity** ⚡</b>
+<b>⚡ Activity ⚡</b>
 
-- Master's course, Department of Artificial Intelligence, Sejong University :: 2024.03 ~
+- CVPR LAB, Research Assistant,
+    - Feb 2024 - Feb 2026 (Expected)
 
-- CVPR LAB, RA :: 2024.02 ~
+- Lead Developer (Freelance) - Trading Strategy Automation System
+    - Jan 2026 - Present
+    - Currently in the Prototype Phase
+    <!-- - Architected the end-to-end pipeline from data ingestion to automated order execution-->
 
 <br> 
 
-<b> 🌱 **Awards** 🌱</b>
+<b> :mortar_board: Education :mortar_board: </b>
+
+- Master of Engineering in Artificial Intelligence, Sejong University
+    - Double major in Metaverse Application
+    - Thesis: *A Clustering-based Feature Projection and Multi-Feature Fusion Deep Learning for Financial Time Series Classification*
+    - Mar 2024 - Feb 2026
+    - GPA: 4.4/4.5
+
+- Bachelor of Engineering in Software Application, Kangnam University
+    - Double major in Virtual Reality 
+    - Graduation Project: *Real-time Particle Based Fluid Simulation and Application Research*
+    - Mar 2018 - Feb 2024
+    - GPA: 3.0/4.5
+  
+<br>
+
+<b> 🌱 Awards 🌱</b>
 
 - 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr/69)]
 <!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
@@ -109,7 +129,7 @@
 
 <br> 
 
-<b> 💬 **Publications** 💬 </b>
+<b> 💬 Publications 💬 </b>
 
 <!-- - G. H. Lee, A. Khan et al., "<b>Integrating Virtual Reality and Deep Learning Gesture Recognition for Sign Language Experience with Insights from Embodied Cognition</b>", <i>Virtual Reality</i>, Oct 2025. [Current State: Peer Review] -->
 
@@ -127,35 +147,35 @@
 
 <br>
 
-### Project
+[![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b>2025</b>&emsp; Institutional Review Board (IRB) of Sejong University Approval (SUIRB-HR-2025-002), Sejong University<br>
-<b>2024</b>&emsp; Metaverse Convergence Graduate School Project, Sejong University<br>
-<b>2023</b>&emsp; Real-time Particle Based Fluid Simulation and Application Research, Kangnam University<br>
+### Academic Projects
+|Project|Period|Institution|Description|
+|-------|------|-----------|-----------|
+|IRB Approval (SUIRB-HR-2025-002)|2025|Sejong University|Institutional Review Board (IRB) approval for human-subject research|
+|Metaverse Convergence Graduate School Project|2024 - 2025|Sejong University|Serving as a focal point for fostering advanced talent and industry-academia cooperation by combining metaverse technology (engineering) with the humanities and social sciences.|
+|NRF (National Research Foundcation) of Korea|2024|Kangnam University|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
 
 <br>
 
-### Personal Outsourcing
-<b>2025</b>&emsp; Development of Python based System Trading Bot for Cryptocurrency in [**Toobit**](https://www.toobit.com/en-US/)<br>
-<b>2025</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
-<b>2024</b>&emsp; Development of [**OKX Signal Bot**](https://www.okx.com/landingpage/signal-trading) Function-based System Trading Framework<br>
-<b>2023</b>&emsp; Development of VPS [**MT4**](https://www.mql5.com/en) based System Trading Bot<br>
-<b>2023</b>&emsp; Auto Trading System using [**TradingView**](https://www.tradingview.com/) and Webhook signals<br>
+### Freelance/Outsourcing
+|Project|Period|Role|Key Achievements|
+|-------|------|----|----------------|
+|VPS [**MT4**](https://www.mql5.com/en)-based System Trading bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
+|Custom Expert Advisors (EAs)-based System Trading bot Development|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
+|[**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
 
 <br>
 
 ### Previous Activities
 <!-- -->
-<b>2025</b>&emsp; 2025 2nd IEEE International Symposium on Consumer Technology (ISCT), Oral Session, Presenter, Sep. 16-18 2025 <br>
-<b>2024</b>&emsp; The 10th International Conference on Next Generation Computing (ICNGC 2024), Poster Session, Presenter, Nov. 21-23 2025 <br>
-<b>2024</b>&emsp; 2024 Korea Student UAM Olympiad, Radio Environment Analysis Sector <br>
-<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Software, Kangnam University :: 2018.03-2024.02 <br>
-<b>2024</b>&emsp; Department of Software Application, Bachelor of Engineering in Virtual Reality, Kangnam University <br>
-<b>2023</b>&emsp; National Research Foundation of Korea, Mid-Career Researcher Student Researcher :: 2023.06-2024.02 <br>
-<b>2023</b>&emsp; Online 1:1 Programming Tutoring :: 2023.02-2024.05 <br>
-<b>2023</b>&emsp; College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring, Kangnam University :: 2023.03-2023.06 <br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=flat&row=1&column=8)
+|Activity|Period|Insititution|Role|Venue & Details|
+|--------|------|------------|----|---------------|
+|IEEE ISCT 2025|16-18 Sep 2025|Sejong University|Oral Presenter|2nd IEEE International Symposium on Consumer Technology|
+|ICNGC 2024|21-23 Nov 2025|Sejong University|Poster Presenter|10th International Conference on Next Generation Computing|
+|NRF (National Research Foundation) of Korea|Jun 2023 - Feb 2024|Kangnam University|Student Researcher|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
+|Programming Tutoring|Feb 2023 - Mar 2024|Kangnam University|Mentor|Online 1:1 programming & CS fundamentals tutoring|
+|Academic Club 'CAVE'|Mar 2023 - Jun 2023|Kangnam University|Lead Mentor|College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring|
 
 <!--
 ![lsch6214's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lsch6214)
