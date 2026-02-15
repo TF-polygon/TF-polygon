@@ -95,7 +95,7 @@
 - CVPR LAB, Research Assistant,
     - Feb 2024 - Feb 2026 (Expected)
 
-- Lead Developer (Freelance) - Trading Strategy Automation System
+- Lead Developer (Freelance) - Multi-Account Integrated Control & Signal Replication System
     - Jan 2026 - Present
     - Currently in the Prototype Phase
     <!-- - Architected the end-to-end pipeline from data ingestion to automated order execution-->
