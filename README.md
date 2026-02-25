@@ -174,7 +174,7 @@
 |IEEE ISCT 2025|16-18 Sep 2025|Sejong University|Oral Presenter|2nd IEEE International Symposium on Consumer Technology|
 |ICNGC 2024|21-23 Nov 2025|Sejong University|Poster Presenter|10th International Conference on Next Generation Computing|
 |NRF (National Research Foundation) of Korea|Jun 2023 - Feb 2024|Kangnam University|Student Researcher|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
-|Programming Tutoring|Feb 2023 - Mar 2024|Kangnam University|Mentor|Online 1:1 programming & CS fundamentals tutoring|
+|Programming Tutoring|Feb 2023 - Mar 2024|Freelance|Mentor|Online 1:1 programming & CS fundamentals tutoring|
 |Academic Club 'CAVE'|Mar 2023 - Jun 2023|Kangnam University|Lead Mentor|College of ICT Construction & Welfare Convergence, Department of ICT Convergence Engineering, Virtual Reality Academic Club 'CAVE' C Mentoring|
 
 <!--
