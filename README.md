@@ -92,9 +92,6 @@
 
 <b>⚡ Activity ⚡</b>
 
-- CVPR LAB, Research Assistant,
-    - Feb 2024 - Feb 2026 (Expected)
-
 - Lead Developer (Freelance) - Multi-Account Integrated Control & Signal Replication System
     - Jan 2026 - Present
     - Currently in the Prototype Phase
@@ -109,6 +106,7 @@
     - Thesis: *A Clustering-based Feature Projection and Multi-Feature Fusion Deep Learning for Financial Time Series Classification*
     - Mar 2024 - Feb 2026
     - GPA: 4.4/4.5
+    - Lab: CVPR LAB, Sejong University [[**Website**](https://cvpr.sejong.ac.kr/)]
 
 - Bachelor of Engineering in Software Application, Kangnam University
     - Double major in Virtual Reality 
@@ -171,6 +169,7 @@
 <!-- -->
 |Activity|Period|Insititution|Role|Venue & Details|
 |--------|------|------------|----|---------------|
+|CVPR LAB|Feb 2024 - Feb 2026|Sejong University|Graduate Researcher|Computer Vision & Pattern Recognition Laboratory. [[**Website**](https://cvpr.sejong.ac.kr)]|
 |IEEE ISCT 2025|16-18 Sep 2025|Sejong University|Oral Presenter|2nd IEEE International Symposium on Consumer Technology|
 |ICNGC 2024|21-23 Nov 2025|Sejong University|Poster Presenter|10th International Conference on Next Generation Computing|
 |NRF (National Research Foundation) of Korea|Jun 2023 - Feb 2024|Kangnam University|Student Researcher|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
