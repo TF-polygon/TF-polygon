@@ -92,10 +92,9 @@
 
 <b>⚡ Activity ⚡</b>
 
-- Lead Developer (Freelance) - Multi-Account Integrated Control & Signal Replication System
+- Lead Developer (Freelance) - Scalable Multi-Account Trading Bot with REST API
     - Jan 2026 - Present
     - Currently in the Prototype Phase
-    <!-- - Architected the end-to-end pipeline from data ingestion to automated order execution-->
 
 <br> 
 
@@ -159,8 +158,9 @@
 ### Freelance/Outsourcing
 |Project|Period|Role|Key Achievements|
 |-------|------|----|----------------|
-|VPS [**MT4**](https://www.mql5.com/en)-based System Trading bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
-|Custom Expert Advisors (EAs)-based System Trading bot Development|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
+|Scalable Multi-Account Trading Bot with REST API & Telegram|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the LBank futures trading using REST API.<br>- Developed a multi-management system utilizing multi-threading design to process orders and data updates for multiple accounts in parallel.<br>- Implemented a transaction notification function that sends API request results via Telegram.|
+|VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
+|Custom Expert Advisors (EAs)-based System Trading Bot Development|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
 |[**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
 
 <br>
