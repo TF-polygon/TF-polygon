@@ -131,17 +131,17 @@
 
 <!-- - G. H. Lee, A. Khan et al., "<b>Integrating Virtual Reality and Deep Learning Gesture Recognition for Sign Language Experience with Insights from Embodied Cognition</b>", <i>Virtual Reality</i>, Oct 2025. [Current State: Peer Review] -->
 
-- A. Khan, G. H. Lee et al., "<b>Empowering Assisted Living: Ultra Leap Motion and Deep Learning for Sign Language Recognition</b>", <i>Interntional Journal of Machine Learning and Cybernetics</i> (Accepted). [[**Link**](about:blank)]
+- Khan, A., Lee, GH. et al. "<b>Empowering Assisted Living: Ultra Leap Motion and Deep Learning for Sign Language Recognition</b>", <i>Interntional Journal of Machine Learning and Cybernetics</i>. 17, 192 (2026). [[**Link**](https://doi.org/10.1007/s13042-025-02962-w)]
 
-- G. H. Lee et al, "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>IEEE 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**](https://ieeexplore.ieee.org/abstract/document/11297378)]
+- Lee, GH. et al "<b>Efficient Vision Transformers Optimized with Pruning and Quantization for HMD</b>", <i>IEEE 2nd International Symposium on Consumer Technology</i>, Sep 2025. [[**Link**](https://ieeexplore.ieee.org/abstract/document/11297378)]
 
-- A. Khan, S. Jin, G. H. Lee et al., "<b>Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</b>", <i>IEEE Access</i>, Vol. 13, pp. 55524-55544, May 2025. [[**Link**](https://doi.org/10.1109/ACCESS.2025.3554046)]
+- Khan, A., Jin, SY., Lee, GH. et al. "<b>Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</b>", <i>IEEE Access</i>, Vol. 13, pp. 55524-55544, May 2025. [[**Link**](https://doi.org/10.1109/ACCESS.2025.3554046)]
 
-- G. H. Lee et al., "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, pp. 275-278, Nov 2024. [[**Link**](https://www.earticle.net/Article/A468860)]
+- Lee, GH. et al. "<b>Enhancing Sign Language Acquisition with VR Technology: A Study on HMD and Hand-Tracking Integration</b>," <i>The 10th International Conference on Next Generation Computing</i>, pp. 275-278, Nov 2024. [[**Link**](https://www.earticle.net/Article/A468860)]
 
-- S. Jin, A. Khan, G. H. Lee et al., "<b>Evaluating Environmental Safety in Virtual Worlds: YOLOv8-Based Hazard Detection in Unity-Based Metaverse Simulations</b>", <i>The 10th International Conference on Next Generation Computing</i>, pp. 271-274, Nov 2024. [[**Link**](https://www.earticle.net/Article/A468859)]
+- Jin, SY., Khan, A., Lee, GH. et al. "<b>Evaluating Environmental Safety in Virtual Worlds: YOLOv8-Based Hazard Detection in Unity-Based Metaverse Simulations</b>", <i>The 10th International Conference on Next Generation Computing</i>, pp. 271-274, Nov 2024. [[**Link**](https://www.earticle.net/Article/A468859)]
 
-- G. H. Lee et al., "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024. [[**Link**](https://doi.org/10.9728/dcs.2024.25.5.1263)]
+- Lee, GH. et al. "<b>Development of Real-Time Interaction System for SPH Fluid Using CPU Parallel Processing and Single-Board Computer</b>," <i>Journal of Digital Contents Society</i>, Vol. 25, No. 5, pp. 1263-1271, Feb 2024. [[**Link**](https://doi.org/10.9728/dcs.2024.25.5.1263)]
 
 <br>
 
