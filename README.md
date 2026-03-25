@@ -33,66 +33,12 @@
         
 </p>
 
-<!--
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
-      style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
-      style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
-      style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-        style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-  
-<a href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg"
-      style="height : 45px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-  
-<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/e46c204e-0915-4773-95b2-b486cebba51a">
-    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/e46c204e-0915-4773-95b2-b486cebba51a"
-      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/294f2030-a0c9-4ca0-be7d-f27ebce92ac8">
-    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/294f2030-a0c9-4ca0-be7d-f27ebce92ac8"
-      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/2fe43032-841f-493f-8a68-aaf3895c6213">
-    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/2fe43032-841f-493f-8a68-aaf3895c6213"
-      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
-
-<a href="https://github.com/TF-polygon/TF-polygon/assets/111733156/ae91d10b-0fb8-4830-872f-5d848e2dad62">
-    <img src="https://github.com/TF-polygon/TF-polygon/assets/111733156/ae91d10b-0fb8-4830-872f-5d848e2dad62"
-      style="height : 50px; margin-left : 10px; margin-right : 10px;"/>
-
-</a>
--->
 <br>
 
 <b>⚡ Activity ⚡</b>
 
-- Lead Developer (Freelance) - Scalable Multi-Account Trading Bot with REST API
+- Lead Developer (Freelance) - Trading Bot with REST API
+
     - Jan 2026 - Present
     - Currently in the Prototype Phase
 
@@ -153,17 +99,13 @@
 |Metaverse Convergence Graduate School Project|2024 - 2025|Sejong University|Serving as a focal point for fostering advanced talent and industry-academia cooperation by combining metaverse technology (engineering) with the humanities and social sciences.|
 |NRF (National Research Foundcation) of Korea|2024|Kangnam University|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
 
-<br>
-
 ### Freelance/Outsourcing
 |Project|Period|Role|Key Achievements|
 |-------|------|----|----------------|
-|Scalable Multi-Account Trading Bot with REST API & Telegram|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the LBank futures trading using REST API.<br>- Developed a multi-management system utilizing multi-threading design to process orders and data updates for multiple accounts in parallel.<br>- Implemented a transaction notification function that sends API request results via Telegram.|
-|VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
-|Custom Expert Advisors (EAs)-based System Trading Bot Development|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
-|[**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
-
-<br>
+|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**LBank**](https://www.lbank.com/) futures trading using REST API.- Implemented a transaction notification function that sends API request results via Telegram.|
+|Development of VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
+|Development of Custom Expert Advisors (EAs)-based System Trading Bot|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
+|Development of [**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
 
 ### Previous Activities
 <!-- -->
