@@ -102,7 +102,7 @@
 ### Freelance/Outsourcing
 |Project|Period|Role|Key Achievements|
 |-------|------|----|----------------|
-|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**LBank**](https://www.lbank.com/) futures trading using REST API.- Implemented a transaction notification function that sends API request results via Telegram.|
+|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**GateIO**](https://www.gate.com/) futures trading using REST API.- Implemented a transaction notification function that sends API request results via Telegram.|
 |Development of VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
 |Development of Custom Expert Advisors (EAs)-based System Trading Bot|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
 |Development of [**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
