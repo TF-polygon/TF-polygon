@@ -37,36 +37,42 @@
 
 <b>⚡ Activity ⚡</b>
 
-- Lead Developer (Freelance) - Trading Bot with REST API
-
-    - Jan 2026 - Present
-    - Currently in the Prototype Phase
-
+**Lead Developer (Freelance)**  
+*Trading Bot Management System with REST API*  
+- Jan 2026 – Present
+- Data fetching & supply pipeline optimization under high load  
+- Robustness improvement via edge case & failure handling  
+- Real-time monitoring system for anomaly detection  
+- Prototype Phase
+  
 <br> 
 
 <b> :mortar_board: Education :mortar_board: </b>
 
-- Master of Engineering in Artificial Intelligence, Sejong University
-    - Double major in Metaverse Application
-    - Thesis: *A Clustering-based Feature Projection and Multi-Feature Fusion Deep Learning for Financial Time Series Classification*
-    - Mar 2024 - Feb 2026
-    - GPA: 4.4/4.5
-    - Lab: CVPR LAB, Sejong University [[**Website**](https://cvpr.sejong.ac.kr/)]
+**M.Eng. in Artificial Intelligence**, Sejong University  
+- Double Major: Metaverse Application  
+- Thesis: *A Clustering-based Feature Projection and Multi-Feature Fusion Deep Learning for Financial Time Series Classification*  
+- Mar 2024 – Feb 2026  
+- GPA: **4.4 / 4.5**  
+- Lab: CVPR LAB [[Website](https://cvpr.sejong.ac.kr/)]  
 
-- Bachelor of Engineering in Software Application, Kangnam University
-    - Double major in Virtual Reality 
-    - Graduation Project: *Real-time Particle Based Fluid Simulation and Application Research*
-    - Mar 2018 - Feb 2024
-    - GPA: 3.0/4.5
+**B.Eng. in Software Application**, Kangnam University  
+- Double Major: Virtual Reality  
+- Graduation Project: *Real-time Particle Based Fluid Simulation and Application Research*  
+- Mar 2018 – Feb 2024  
+- GPA: **3.0 / 4.5**  
   
 <br>
 
 <b> 🌱 Awards 🌱</b>
 
-- 2024 Korea Student UAM Olympiad Best Innovation Award, Radio Environment Analysis Sector, Hosted by Ministry of Land Infrastructure and Transport [[**Link**](https://ksduo.or.kr/69)]
-<!--"<b>UAM Communication Interference Removal Using Adaptive Filtering Techniquest and UAM Operational framework Utilizing AI Multi-modal</b>"-->
-
-- 2023 Graduation Exhibition Encouragement Award, Capstone Design (VR), Department of ICT Convergence Engineering, Kangnam University [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
+- 2024 전국 대학생 UAM 올림피아드
+    - 베스트혁신상 (전파환경부문) [[**Link**](https://ksduo.or.kr/69)]
+    - 프로젝트명: 적응형 필터링 기법을 활용한 UAM 통신 간섭 제거 및 인공지능 멀티모달을 활용한 UAM 운용 프레임워크, <i>UAM Communication Interference Removal Using Adaptive Filtering Techniques and UAM Operational Framework Utilizing AI Multi-modal</i>
+- 2023 졸업작품 전시회
+    - 장려상
+    - 작품명: Real-time Particle Based Fluid Simulation and Application Research
+    - ICT융합공학부 (캡스톤디자인:VR), 강남대학교 [[**Link**](https://sae.kangnam.ac.kr/menu/board/info/bbb160ba271cd9ea5a4f179d3462190d.do?scrtWrtiYn=false&encMenuSeq=9f87f87248ad2a976a416315d9586855&encMenuBoardSeq=1800cdc882d3aad82953075a8dec52d5)]
 
 - Baekjoon Online Judge GOLD IV. <br>
 
@@ -93,16 +99,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Academic Projects
-|Project|Period|Institution|Description|
-|-------|------|-----------|-----------|
-|IRB Approval (SUIRB-HR-2025-002)|2025|Sejong University|Institutional Review Board (IRB) approval for human-subject research|
-|Metaverse Convergence Graduate School Project|2024 - 2025|Sejong University|Serving as a focal point for fostering advanced talent and industry-academia cooperation by combining metaverse technology (engineering) with the humanities and social sciences.|
-|NRF (National Research Foundcation) of Korea|2024|Kangnam University|Identification of multisensory interaction mechanisms and development of application systems in a human-scale metaverse environment|
+| Project | Period | Institution | Description |
+|--------|--------|------------|-------------|
+| IRB Approval (SUIRB-HR-2025-002) | 2025 | Sejong University | IRB approval for human-subject research |
+| Metaverse Convergence Graduate School Project | 2024 – 2025 | Sejong University | Industry-academia convergence program combining metaverse tech with humanities/social sciences |
+| NRF of Korea | 2024 | Kangnam University | Multisensory interaction in human-scale metaverse |
 
 ### Freelance/Outsourcing
 |Project|Period|Role|Key Achievements|
 |-------|------|----|----------------|
-|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**GateIO**](https://www.gate.com/) futures trading using REST API.- Implemented a transaction notification function that sends API request results via Telegram.|
+|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**GateIO**](https://www.gate.com/) futures trading using REST API.<br>- Implemented a transaction notification function that sends API request results to the manager.|
 |Development of VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
 |Development of Custom Expert Advisors (EAs)-based System Trading Bot|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
 |Development of [**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
