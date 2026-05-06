@@ -96,7 +96,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TF-polygon&theme=algolia&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Academic Projects
 | Project | Period | Institution | Description |
