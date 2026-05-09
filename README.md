@@ -38,13 +38,12 @@
 <b>⚡ Activity ⚡</b>
 
 **Lead Developer (Freelance)**  
-*Trading Bot Management System with REST API*  
+*Trading Bot Control Center with Multi-Slot GUI & Web Dashboard*  
 - Jan 2026 – Present
-- Data fetching & supply pipeline optimization under high load  
-- Robustness improvement via edge case & failure handling  
-- Real-time monitoring system for anomaly detection  
-- Prototype Phase
-  
+- Multi-account bot orchestration under single-process thread model with data supply pipeline optimization
+- Robustness via pause/resume operational error pattern & frozen-build memory hardening  
+- Real-time monitoring via PyQt6 GUI + Tailscale-served web dashboard for remote viewers  
+- Beta Testing Phase · ~20 Active Subscribers
 <br> 
 
 <b> :mortar_board: Education :mortar_board: </b>
@@ -108,7 +107,7 @@
 ### Freelance/Outsourcing
 |Project|Period|Role|Key Achievements|
 |-------|------|----|----------------|
-|Development of Trading Bot with REST API on Crytocurrency Market|Jan 2026 - |Lead Developer|- Overall designed and developed the system for the [**GateIO**](https://www.gate.com/) futures trading using REST API.<br>- Implemented a transaction notification function that sends API request results to the manager.|
+|Development of Cryptocurrency Trading Bot Control Center with GUI & Web Dashboard|Jan 2026 - |Lead Developer|- Architected multi-account [**GateIO**](https://www.gate.com/) futures bot hosting under single-process thread model.<br>- Implemented PyQt6 desktop GUI with pyqtgraph candlestick charts, inline slot configuration, and live strategy hot-reload.<br>- Built JSON-decoupled web dashboard exposed via [**Tailscale Funnel**](https://tailscale.com/) for remote viewers (~20 active subscribers, Beta Testing Phase).|
 |Development of VPS [**MT4**](https://www.mql5.com/en)-based System Trading Bot|Nov 2024 - Jul 2025|Lead Developer|- Deployment & Maintenance: Managed 24/7 automated trading on VPS.<br>- Ensured system stability through real-time monitoring and bug fixes.|
 |Development of Custom Expert Advisors (EAs)-based System Trading Bot|Jan 2024 - Aug 2024|Lead Developer|- Architected and developed custom EAs for automated FX trading.<br>- Implemented robust risk management algorithms, including automated stop-loss, take-profit, and position sizing logic.<br>- Optimized trading strategies through extensive backtesting and forward testing using Strategy Tester.|
 |Development of [**TradingView**](https://www.tradingview.com/) Webhook-based Auto Trading System|Mar 2023 - Dec 2023|Lead Developer|- Implemented a trading strategy using Pine Script in TradingView.<br>- Architected a trading framework based on VPS and MT4 EA processing a webhook signal from TradingView Alert.|
