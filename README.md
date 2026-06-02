@@ -40,7 +40,7 @@
 **Founding Engineer (Freelance)**
 *Multi-Account Automated Trading Integrated Control System & Web Dashboard*
 - Mar 2026 – Present
-- Beta Testing Phase · ~20 Active Subscribers
+- Beta Testing Phase · v2.7.0
 <br> 
 
 <b> :mortar_board: Education :mortar_board: </b>
