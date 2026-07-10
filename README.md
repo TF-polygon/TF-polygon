@@ -35,12 +35,15 @@
 
 <br>
 
+
+**AimBeLab** [[Website](https://www.aimbelab.com/company)] 
+- Vision AI Engineer
+
+<!--
 <b>⚡ Activity ⚡</b>
 
-**AimBeLab**
-- Vision AI Engineer
-- Jun 2026 - Present
-
+- None
+-->
 <br> 
 
 <b> :mortar_board: Education :mortar_board: </b>
