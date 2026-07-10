@@ -37,10 +37,10 @@
 
 <b>⚡ Activity ⚡</b>
 
-**Founding Engineer (Freelance)**
-*Multi-Account Automated Trading Integrated Control System & Web Dashboard*
-- Mar 2026 – Present
-- Beta Testing Phase · v2.7.0
+**AimBeLab**
+- Vision AI Engineer
+- Jun 2026 - Present
+
 <br> 
 
 <b> :mortar_board: Education :mortar_board: </b>
